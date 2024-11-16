@@ -1,6 +1,7 @@
 # Istanbul-Shopping-Malls-Performance-Dashboard
 
-![image](https://github.com/user-attachments/assets/e8f374cf-e496-41d8-b3b6-9b06d304b44c)
+![image](https://github.com/user-attachments/assets/ace95766-14c5-4893-83ae-fdf92548c957)
+
 
 ## Table of Content
 - [Customer Demographics](#customer-demographics)
