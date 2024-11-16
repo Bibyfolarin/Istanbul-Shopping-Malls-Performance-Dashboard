@@ -7,7 +7,7 @@
 - [Top Malls by Customer Traffic](#top-malls-by-customer-traffic)
 - [Sales Champions](#sales-champions)
 - [Preferred Payment Options](#preferred-payment-options)
-- [Top-Selling Product Categories](#top-selling-product-categories)<img width="875" alt="Instanbul Shopping Mall" src="https://github.com/user-attachments/assets/402c6522-b24b-4bf0-aaaf-a1a9dd8331a9">
+- [Top-Selling Product Categories](#top-selling-product-categories)
 
 - [Purchase Patterns by Age Group](#purchase-patterns-by-age-group)
 - [Conclusion](#conclusion)
